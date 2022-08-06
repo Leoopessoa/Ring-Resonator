@@ -2,104 +2,82 @@ Ansys Lumerical 2020 R2 FDTD Solver Version 8.24.2387 (Windows 64bit)
  expires (month/day/year): 12/31/2035
 using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
 license host: 
-current time: Sat Aug  6 15:27:41 2022
+current time: Sat Aug  6 15:26:21 2022
 Running on host: DESKTOP-CPAG1MV
-host available memory (GB): 9.239536
+host available memory (GB): 9.238254
 All processes are communicating and ready to proceed to simulation...
-Running fsp file: C:\Program Files\Lumerical\v202\bin\fdtd-engine-msmpi.exe -t 1 -remote D:/AAAAAAAArquivos/Facul/Capacitação/GitHub/Ring-Resonator/Tutorial/ring_resonator.fsp
+Running fsp file: C:\Program Files\Lumerical\v202\bin\fdtd-engine-msmpi.exe -t 1 -remote -hide D:/AAAAAAAArquivos/Facul/Capacitação/GitHub/Ring-Resonator/Tutorial/ring_resonator_s-parametersweep/s-parametersweep_2.fsp
 Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-left is a duplicate key.
-bottom is a duplicate key.
-z1 is a duplicate key.
-z2 is a duplicate key.
-Nx is a duplicate key.
-Ny is a duplicate key.
-Nz is a duplicate key.
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-left is a duplicate key.
-bottom is a duplicate key.
-z1 is a duplicate key.
-z2 is a duplicate key.
-Nx is a duplicate key.
-Ny is a duplicate key.
-Nz is a duplicate key.
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0.015625 seconds of CPU time
-left is a duplicate key.
-bottom is a duplicate key.
-z1 is a duplicate key.
-z2 is a duplicate key.
-Nx is a duplicate key.
-Ny is a duplicate key.
-Nz is a duplicate key.
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
+Simulation size in gridpoints: 1 x 38 x 14
 Refined 0 mesh cells (0%)
 Completed meshing!
 Meshing complete in 0.015625 seconds of CPU time
 Starting meshing
-Simulation size in gridpoints: 1 x 37 x 14
+Simulation size in gridpoints: 1 x 38 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 38 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+Starting meshing
+Simulation size in gridpoints: 1 x 38 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 38 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 38 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 38 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 38 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 38 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+Starting meshing
+Simulation size in gridpoints: 48 x 1 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 48 x 1 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 48 x 1 x 14
 Refined 0 mesh cells (0%)
 Completed meshing!
 Meshing complete in 0 seconds of CPU time
@@ -114,25 +92,25 @@ number of processors is 8
 processors are distributed as: 4x2x1
 Running 3D Simulation
 Starting meshing
-Simulation size in gridpoints: 56 x 102 x 22
+Simulation size in gridpoints: 56 x 73 x 22
 Refined 0 mesh cells (0%)
 Completed meshing!
-Meshing complete in 2.125 seconds of CPU time
-65840 65840
+Meshing complete in 1.17188 seconds of CPU time
+108136 108136
 Starting meshing
-Simulation size in gridpoints: 56 x 102 x 22
+Simulation size in gridpoints: 56 x 73 x 22
 Refined 0 mesh cells (0%)
 Completed meshing!
-Meshing complete in 1.95312 seconds of CPU time
-64176 64176
+Meshing complete in 1.20312 seconds of CPU time
+86776 86776
 Starting meshing
-Simulation size in gridpoints: 56 x 102 x 22
+Simulation size in gridpoints: 56 x 73 x 22
 Refined 0 mesh cells (0%)
 Completed meshing!
-Meshing complete in 1.8125 seconds of CPU time
-38112 38112
+Meshing complete in 0.890625 seconds of CPU time
+72928 72928
 finished material properties
-Meshing Time: 4.26252 seconds, Init Electrical Material Time: 0.147576 seconds, Init Magnetic Material Time: 0.0007537
+Meshing Time: 2.2767 seconds, Init Electrical Material Time: 0.188718 seconds, Init Magnetic Material Time: 0.0004691
 Using selected optimization level: 2
 Selecting 3d kernel for splitFieldDirection=0 and optLevel=2
 -----------------------------------------
@@ -149,7 +127,6 @@ Adding 3D Symmetric BC
 Adding 3D PML BC
 Starting to add monitors to Simulation
 Adding analysis monitor
-Adding 3D DFT monitor
 Adding 3D DFT monitor
 Adding 3D DFT monitor
 Adding 3D DFT monitor
