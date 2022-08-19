@@ -1,0 +1,236 @@
+Ansys Lumerical 2020 R2 FDTD Solver Version 8.24.2387 (Windows 64bit)
+ expires (month/day/year): 12/31/2035
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 
+current time: Fri Aug 19 03:29:55 2022
+Running on host: DESKTOP-CPAG1MV
+host available memory (GB): 8.858735
+All processes are communicating and ready to proceed to simulation...
+Running fsp file: C:\Program Files\Lumerical\v202\bin\fdtd-engine-msmpi.exe -t 1 -remote -hide D:/AAAAAAAArquivos/Facul/Capacitação/GitHub/Ring-Resonator/Tutorial/ring_resonator_175nmGapSweep(Lc=3μm)/175nmGapSweep(Lc=3μm)_2.fsp
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 51 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+Starting meshing
+Simulation size in gridpoints: 67 x 1 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 67 x 1 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 67 x 1 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.015625 seconds of CPU time
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+Starting meshing
+Simulation size in gridpoints: 67 x 1 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 67 x 1 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 67 x 1 x 14
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+number of processors is 4
+processors are distributed as: 2x2x1
+Running 3D Simulation
+Starting meshing
+Simulation size in gridpoints: 237 x 140 x 24
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.828125 seconds of CPU time
+0 0
+Starting meshing
+Simulation size in gridpoints: 237 x 140 x 24
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.84375 seconds of CPU time
+0 0
+Starting meshing
+Simulation size in gridpoints: 237 x 140 x 24
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 1.64062 seconds of CPU time
+0 0
+finished material properties
+Meshing Time: 2.53787 seconds, Init Electrical Material Time: 0.103223 seconds, Init Magnetic Material Time: 0.0036259
+Using selected optimization level: 2
+Selecting 3d kernel for splitFieldDirection=0 and optLevel=2
+-----------------------------------------
+Beginning initialization of 3D Simulation
+Starting to add sources to simulation
+Adding 3D Mode source propagating in X
+Using frequency dependent profile
+Starting to add boundary conditions to simulation
+Adding 3D PML BC
+Adding 3D Parallel BC
+Adding 3D PML BC
+Adding 3D Parallel BC
+Adding 3D Symmetric BC
+Adding 3D PML BC
+Starting to add monitors to Simulation
+Adding analysis monitor
+Adding 3D DFT monitor
+Adding 3D DFT monitor
+Adding 3D DFT monitor
+Adding 3D DFT monitor
+Finished initialization of 3D Simulation
+-----------------------------------------
+All processes are communicating and ready to proceed to simulation...
+Starting 51959 total iterations
+0.0923808% complete. Max time remaining: 23 mins, 12 secs. Auto Shutoff: 1
+1.20095% complete. Max time remaining: 23 mins, 30 secs. Auto Shutoff: 1
+2.30952% complete. Max time remaining: 23 mins, 8 secs. Auto Shutoff: 0.990479
+3.41809% complete. Max time remaining: 22 mins, 48 secs. Auto Shutoff: 0.99042
+4.52666% complete. Max time remaining: 22 mins, 30 secs. Auto Shutoff: 0.98149
+5.63523% complete. Max time remaining: 22 mins, 12 secs. Auto Shutoff: 0.952697
+6.7438% complete. Max time remaining: 21 mins, 57 secs. Auto Shutoff: 0.866703
+7.85237% complete. Max time remaining: 21 mins, 51 secs. Auto Shutoff: 0.431549
+8.96094% complete. Max time remaining: 21 mins, 34 secs. Auto Shutoff: 0.0489506
+10.0695% complete. Max time remaining: 21 mins, 17 secs. Auto Shutoff: 0.039963
+11.1781% complete. Max time remaining: 20 mins, 59 secs. Auto Shutoff: 0.035747
+12.2867% complete. Max time remaining: 20 mins, 43 secs. Auto Shutoff: 0.0360579
+13.3952% complete. Max time remaining: 20 mins, 26 secs. Auto Shutoff: 0.0350098
+14.5038% complete. Max time remaining: 20 mins, 9 secs. Auto Shutoff: 0.0321306
+15.6124% complete. Max time remaining: 19 mins, 53 secs. Auto Shutoff: 0.0163179
+16.7209% complete. Max time remaining: 19 mins, 37 secs. Auto Shutoff: 0.0105088
+17.8295% complete. Max time remaining: 19 mins, 21 secs. Auto Shutoff: 0.001629
+18.9381% complete. Max time remaining: 19 mins, 5 secs. Auto Shutoff: 0.00141503
+20.0466% complete. Max time remaining: 18 mins, 49 secs. Auto Shutoff: 0.00138649
+21.1552% complete. Max time remaining: 18 mins, 33 secs. Auto Shutoff: 0.0013913
+22.2638% complete. Max time remaining: 18 mins, 17 secs. Auto Shutoff: 0.00136751
+23.3724% complete. Max time remaining: 18 mins, 1 secs. Auto Shutoff: 0.00131207
+24.4809% complete. Max time remaining: 17 mins, 45 secs. Auto Shutoff: 0.000793152
+25.5895% complete. Max time remaining: 17 mins, 29 secs. Auto Shutoff: 0.000362419
+26.6981% complete. Max time remaining: 17 mins, 14 secs. Auto Shutoff: 9.49279e-05
+27.8066% complete. Max time remaining: 16 mins, 58 secs. Auto Shutoff: 8.9079e-05
+28.9152% complete. Max time remaining: 16 mins, 42 secs. Auto Shutoff: 8.76475e-05
+30.0238% complete. Max time remaining: 16 mins, 26 secs. Auto Shutoff: 8.42488e-05
+31.1323% complete. Max time remaining: 16 mins, 10 secs. Auto Shutoff: 8.75922e-05
+32.2409% complete. Max time remaining: 15 mins, 55 secs. Auto Shutoff: 7.72869e-05
+33.3495% complete. Max time remaining: 15 mins, 39 secs. Auto Shutoff: 6.297e-05
+34.3753% complete. Max time remaining: 15 mins, 24 secs. Auto Shutoff: 9.82066e-06
+100% complete. Max time remaining: 0 mins, 0 secs. Auto Shutoff: 9.82066e-06
+Early termination of simulation, the autoshutoff criteria are satisfied.
+Completed 17861 iterations, or 1.031259e-12s of Simulation Time
+Process 0 starting to collect data
+    collecting monitor data
+    collecting source data
+Using frequency dependent profile
+Finished collecting data
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+left is a duplicate key.
+bottom is a duplicate key.
+z1 is a duplicate key.
+z2 is a duplicate key.
+Nx is a duplicate key.
+Ny is a duplicate key.
+Nz is a duplicate key.
+Simulation completed successfully at: Fri Aug 19 03:38:14 2022
+Overall wall time measurements in seconds: 499.62
+    time to mesh and initialize: 13.3216
+    time to run FDTD simulation: 484.085
+    time to checkpoint simulation: 5e-07
+    time to finalize data and save to files: 0.121498
+    miscellaneous time: 2.09199
+    FDTD solver speed on process 0: 29.3814 Mnodes/s
+    total FDTD solver speed on 4 processes: 117.525 Mnodes/s
