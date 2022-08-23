@@ -1,5 +1,5 @@
 # define data export
-xml_filename="dc_map(Lc = 1.5μm).xml";
+xml_filename="dc_map(Lc=0um).xml";
 if (fileexists(xml_filename)) { rm(xml_filename);}
 table = "directional_coupler";
 lookupopen(xml_filename,table);
@@ -16,7 +16,7 @@ gap = linspace(150e-9,200e-9,3);
 
 for (i=1:length(gap)) {
     design{1}.value = gap(i);
-    filename = num2str(gap(i)*1e9) + "nm Gap Sweep (Lc = 1.5μm)";
+    filename = num2str(gap(i)*1e9) + "nm_Gap_Sweep(Lc=0um)";
     file1=filename+".dat";
     extracted{1}.value = file1;
     lookupwrite( xml_filename, design, extracted );

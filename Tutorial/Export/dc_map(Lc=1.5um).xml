@@ -5,7 +5,7 @@
         <value name="Gap" type="double">1.5e-07</value>
     </design>
     <extracted>
-        <value name="s-param" type="string">150nm Gap Sweep (Lc = 1.5μm).dat</value>
+        <value name="s-param" type="string">150nm_Gap_Sweep(Lc=1.5um).dat</value>
     </extracted>
 </association>
 <association>
@@ -13,7 +13,7 @@
         <value name="Gap" type="double">1.75e-07</value>
     </design>
     <extracted>
-        <value name="s-param" type="string">175nm Gap Sweep (Lc = 1.5μm).dat</value>
+        <value name="s-param" type="string">175nm_Gap_Sweep(Lc=1.5um).dat</value>
     </extracted>
 </association>
 <association>
@@ -21,6 +21,6 @@
         <value name="Gap" type="double">2e-07</value>
     </design>
     <extracted>
-        <value name="s-param" type="string">200nm Gap Sweep (Lc = 1.5μm).dat</value>
+        <value name="s-param" type="string">200nm_Gap_Sweep(Lc=1.5um).dat</value>
     </extracted>
 </association>
